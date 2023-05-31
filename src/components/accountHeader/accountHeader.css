@@ -1,0 +1,30 @@
+.form-name {
+    display: flex;
+    justify-content: center;
+    gap: 20px
+}
+
+.save-button {
+    border-color: #00bc77;
+    background-color: #fff;
+    color: #00bc77;
+    font-weight: bold;
+    padding: 6px 30px;
+    border-radius: 3px;
+}
+
+.cancel-button {
+    border-color: #bc0000;
+    background-color: #fff;
+    color: #bc0000;
+    font-weight: bold;
+    padding: 6px 30px;
+    border-radius: 3px;
+}
+
+.button-container {
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
